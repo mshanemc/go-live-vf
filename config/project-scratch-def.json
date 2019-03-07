@@ -1,6 +1,7 @@
 {
   "orgName": "go-live-vf",
   "edition": "Developer",
+  "hasSampleData": "true",
   "settings": {
     "orgPreferenceSettings": {
       "networksEnabled": false,
